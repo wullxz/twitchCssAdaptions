@@ -1,0 +1,47 @@
+#right_col {
+    right: initial ;
+    left: 0 ;
+}
+
+#main_col, #left_col {
+    left: initial ;
+    right: 0 ;
+}
+
+#main_col {
+    margin-left: 340px;
+    margin-right: initial;
+}
+
+#right_close {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+    right: initial;
+    left: 5px;
+}
+
+#main_col.expandRight, #flash.expandRight {
+    margin-left: 0px ;
+}
+
+div.exit-theatre a {
+    margin-left: 30px;
+}
+
+div.js-directory {
+    margin-right: 240px;
+}
+
+div.info {
+    margin-right: 240px;
+}
+
+div.messages.tse-content {
+    margin-right: 240px;
+}
+
+
