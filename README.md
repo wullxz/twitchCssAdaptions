@@ -1,5 +1,5 @@
 # twitchCssAdaptions
-css that adapt some stuff on the twitch website.
+css that adapts some stuff on the twitch website.
 
 # how to use
 
